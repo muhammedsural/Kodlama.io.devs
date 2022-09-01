@@ -1,0 +1,14 @@
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\bin\Debug\net6.0\KodlamaIoDevs.Persistence.deps.json
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\bin\Debug\net6.0\KodlamaIoDevs.Persistence.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\bin\Debug\net6.0\KodlamaIoDevs.Persistence.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.csproj.AssemblyReference.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.AssemblyInfoInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.AssemblyInfo.cs
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.csproj.CoreCompileInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\refint\KodlamaIoDevs.Persistence.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\ref\KodlamaIoDevs.Persistence.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\bin\Debug\net6.0\KodlamaIoDevs.Persistence.runtimeconfig.json
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Persistence\obj\Debug\net6.0\KodlamaIoDevs.Persistence.genruntimeconfig.cache

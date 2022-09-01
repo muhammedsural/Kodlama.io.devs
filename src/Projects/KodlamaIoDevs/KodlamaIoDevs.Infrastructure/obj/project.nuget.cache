@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mc18IAN1WzM4EboF2jNb9WOPKNt+ukhuKPjBXUDE30vsTwUVRaH9oxPJSVUBqVJmL6q+pTEiHaPGl1GsQ9hTCw==",
+  "success": true,
+  "projectFilePath": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\Projects\\KodlamaIoDevs\\KodlamaIoDevs.Infrastructure\\KodlamaIoDevs.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

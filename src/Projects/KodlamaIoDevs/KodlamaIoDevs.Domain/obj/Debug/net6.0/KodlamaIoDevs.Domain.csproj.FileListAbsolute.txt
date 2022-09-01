@@ -1,0 +1,15 @@
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\KodlamaIoDevs.Domain.deps.json
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\KodlamaIoDevs.Domain.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\KodlamaIoDevs.Domain.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.csproj.AssemblyReference.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.AssemblyInfoInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.AssemblyInfo.cs
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.csproj.CoreCompileInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\refint\KodlamaIoDevs.Domain.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\ref\KodlamaIoDevs.Domain.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\Core.Persistence.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\Core.Persistence.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaIoDevs.Domain.csproj.CopyComplete

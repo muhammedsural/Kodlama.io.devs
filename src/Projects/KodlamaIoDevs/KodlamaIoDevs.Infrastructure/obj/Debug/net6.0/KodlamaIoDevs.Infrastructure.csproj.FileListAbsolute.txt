@@ -1,0 +1,12 @@
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaIoDevs.Infrastructure.deps.json
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaIoDevs.Infrastructure.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaIoDevs.Infrastructure.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.csproj.AssemblyReference.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.AssemblyInfoInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.AssemblyInfo.cs
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.csproj.CoreCompileInputs.cache
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\refint\KodlamaIoDevs.Infrastructure.dll
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.pdb
+D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\ref\KodlamaIoDevs.Infrastructure.dll
