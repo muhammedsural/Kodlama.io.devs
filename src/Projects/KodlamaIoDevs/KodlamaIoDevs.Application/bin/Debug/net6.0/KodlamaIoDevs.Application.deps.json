@@ -6,16 +6,17 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "KodlamaIoDevs.Application/1.0.0": {
+      "KodlamaioDevs.Application/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Core.Application": "1.0.0",
           "Core.CrossCuttingConcerns": "1.0.0",
           "FluentValidation.DependencyInjectionExtensions": "11.2.1",
+          "KodlamaioDevs.Domain": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
         },
         "runtime": {
-          "KodlamaIoDevs.Application.dll": {}
+          "KodlamaioDevs.Application.dll": {}
         }
       },
       "AutoMapper/11.0.0": {
@@ -1005,11 +1006,19 @@
         "runtime": {
           "Core.Security.dll": {}
         }
+      },
+      "KodlamaioDevs.Domain/1.0.0": {
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "KodlamaioDevs.Domain.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "KodlamaIoDevs.Application/1.0.0": {
+    "KodlamaioDevs.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1695,6 +1704,11 @@
       "sha512": ""
     },
     "Core.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KodlamaioDevs.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

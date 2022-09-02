@@ -10,9 +10,8 @@ namespace Persistence
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services,
                                                                 IConfiguration configuration)
         {
-            //services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(@"Server=DESKTOP-8212T7;Database=KodlamaIoDevsDb;UID=msural;PWD=sural6177;"));
-            services.AddDbContext<BaseDbContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
+            services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(@"Server=DESKTOP-8212T7;Database=KodlamaIoDevsDb;UID=msural;PWD=sural6177;"));
+            //services.AddDbContext<BaseDbContext>(options =>options.UseSqlServer(configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
 
 
 

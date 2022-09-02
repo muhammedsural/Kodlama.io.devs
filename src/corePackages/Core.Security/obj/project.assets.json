@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
       "projectName": "Core.Security",
-      "projectPath": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\corePackages\\Core.Security\\Core.Security.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\corePackages\\Core.Security\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
@@ -1078,8 +1078,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-              "projectPath": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
             }
           }
         }

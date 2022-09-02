@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = KodlamaIoDevs.Application
-build_property.ProjectDir = D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Application\
+build_property.RootNamespace = KodlamaioDevs.Application
+build_property.ProjectDir = C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Application\

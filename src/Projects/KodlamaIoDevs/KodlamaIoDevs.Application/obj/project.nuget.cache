@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJTa5l0DU/fRRs47Lct2k08BFRFHyDehRBBUfqPHFdaETyV2Pw4tYNw1172Ao2QFraFalN64DVKJM97l6Qqjuw==",
+  "dgSpecHash": "EwhhJ4wzAnmO0bnloFCWB2iLjMwBA7ABd/9kRTpJu5oNa0NcP/T4segZFwTEsh9nmORa7xnW5CcTK+F843WZ0Q==",
   "success": true,
-  "projectFilePath": "D:\\yazilim_projeleri\\Kodlama.io.Devs\\src\\Projects\\KodlamaIoDevs\\KodlamaIoDevs.Application\\KodlamaIoDevs.Application.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\Projects\\KodlamaIoDevs\\KodlamaIoDevs.Application\\KodlamaioDevs.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

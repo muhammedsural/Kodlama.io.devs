@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "KodlamaIoDevs.Domain/1.0.0": {
+      "KodlamaioDevs.Domain/1.0.0": {
         "dependencies": {
           "Core.Persistence": "1.0.0"
         },
         "runtime": {
-          "KodlamaIoDevs.Domain.dll": {}
+          "KodlamaioDevs.Domain.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/6.0.1": {
@@ -163,7 +163,7 @@
     }
   },
   "libraries": {
-    "KodlamaIoDevs.Domain/1.0.0": {
+    "KodlamaioDevs.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

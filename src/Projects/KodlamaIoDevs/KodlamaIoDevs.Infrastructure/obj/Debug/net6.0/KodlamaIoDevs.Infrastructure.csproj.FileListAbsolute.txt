@@ -10,3 +10,15 @@ D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.In
 D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\refint\KodlamaIoDevs.Infrastructure.dll
 D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaIoDevs.Infrastructure.pdb
 D:\yazilim_projeleri\Kodlama.io.Devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\ref\KodlamaIoDevs.Infrastructure.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.deps.json
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\refint\KodlamaioDevs.Infrastructure.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\ref\KodlamaioDevs.Infrastructure.dll
