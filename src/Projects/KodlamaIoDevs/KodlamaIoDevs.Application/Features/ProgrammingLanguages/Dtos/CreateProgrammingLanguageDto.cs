@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KodlamaioDevs.Application.Features.ProgrammingLanguage.Dtos
+namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Dtos
 {
     public class CreateProgrammingLanguageDto
     {

@@ -22,3 +22,15 @@ C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\Kodlam
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\refint\KodlamaioDevs.Infrastructure.dll
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.pdb
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\ref\KodlamaioDevs.Infrastructure.dll
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.deps.json
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.dll
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\bin\Debug\net6.0\KodlamaioDevs.Infrastructure.pdb
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.csproj.AssemblyReference.cache
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.AssemblyInfoInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.AssemblyInfo.cs
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.csproj.CoreCompileInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.dll
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\refint\KodlamaioDevs.Infrastructure.dll
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\KodlamaioDevs.Infrastructure.pdb
+D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Infrastructure\obj\Debug\net6.0\ref\KodlamaioDevs.Infrastructure.dll

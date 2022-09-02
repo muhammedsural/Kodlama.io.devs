@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EafL3J6mL89I4U5OW7XWQwdi4vXdWzm1iTYqoE9KFfTjMFPiBW90bCyX/wBtvdgE9XB/cpjyjTqY4W0TgPRiAA==",
+  "dgSpecHash": "lOnxdwyJlwA8DwObMjMVD6dGosW0JQKUVRKoipzLK9LSbxeJFXkLZ2fDZLqibEz/5vruf/DJggG87L5tVCyhPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\github\\Kodlama.io.devs\\src\\Projects\\KodlamaIoDevs\\KodlamaIoDevs.Infrastructure\\KodlamaioDevs.Infrastructure.csproj",
+  "projectFilePath": "D:\\senkronize_git\\Kodlama.io.devs\\src\\Projects\\KodlamaIoDevs\\KodlamaIoDevs.Infrastructure\\KodlamaioDevs.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

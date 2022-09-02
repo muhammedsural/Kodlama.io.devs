@@ -46,3 +46,15 @@ C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.Mailing\obj
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll

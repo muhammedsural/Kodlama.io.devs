@@ -46,3 +46,15 @@ C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.ElasticSear
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
 C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
+D:\senkronize_git\Kodlama.io.devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll

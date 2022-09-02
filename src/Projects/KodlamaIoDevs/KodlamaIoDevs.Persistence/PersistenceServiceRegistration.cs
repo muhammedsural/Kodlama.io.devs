@@ -13,8 +13,6 @@ namespace Persistence
             services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(@"Server=DESKTOP-8212T7;Database=KodlamaIoDevsDb;UID=msural;PWD=sural6177;"));
             //services.AddDbContext<BaseDbContext>(options =>options.UseSqlServer(configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
 
-
-
             return services;
         }
     }
