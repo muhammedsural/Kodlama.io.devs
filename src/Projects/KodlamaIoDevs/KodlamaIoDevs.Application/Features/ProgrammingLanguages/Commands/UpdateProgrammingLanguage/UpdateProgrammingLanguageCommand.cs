@@ -27,6 +27,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Commands.Updat
 
             public async Task<UpdateProgrammingLanguageDto> Handle(UpdateProgrammingLanguageCommand request, CancellationToken cancellationToken)
             {
+                
                 ProgrammingLanguage mappedprogrammingLanguage = _mapper.Map<ProgrammingLanguage>(request);
                 await _programmingLanguageBusinessRules.ProgrammingLanguageNameCanNotBeDuplicatedWhenInserted(request.Name);
                 ProgrammingLanguage programmingLanguage = await _programmingLanguageRepository.UpdateAsync(mappedprogrammingLanguage);

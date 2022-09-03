@@ -12,7 +12,7 @@ namespace Persistence
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services,
                                                                 IConfiguration configuration)
         {
-            services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(@"Server=localhost\MSSQLSERVER01;Database=KodlamaioDevsDb;Trusted_Connection=True;"));
+            services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(@"Server=DESKTOP-R8212T7;Database=KodlamaioDevsDb;Trusted_Connection=True;"));
             //services.AddDbContext<BaseDbContext>(options =>options.UseSqlServer(configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
 
             services.AddScoped<IProgrammingLanguageRepository, ProgrammingLanguageRepository>();

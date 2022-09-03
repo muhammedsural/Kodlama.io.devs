@@ -1,11 +1,6 @@
 ﻿using Core.CrossCuttingConcerns.Exceptions;
 using Core.Persistence.Paging;
 using KodlamaioDevs.Application.Services.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Rules
 {
@@ -23,7 +18,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Rules
             IPaginate<Domain.Entities.ProgrammingLanguage> result = await _programmingLanguageRepository.GetListAsync(a => a.Name == name);
             if (result.Items.Any())
             {
-                throw new BusinessException("Aynı isimde programlama dili eklenemez");
+                throw new BusinessException("You can not insert same programming language name...");
             }
         }
 
@@ -34,5 +29,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Rules
                 throw new BusinessException("Programming Language does not exist...");
             }
         }
+
+
     }
 }

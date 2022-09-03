@@ -26,14 +26,14 @@ namespace KodlamaioDevs.WebAPI.Controllers
 
         }
 
-        [HttpGet("{Id}")]
+        [HttpGet("getbyProgLang/{Id}")]
         public async Task<IActionResult> GetById([FromRoute] GetByIdProgrammingLanguageQuery getByIdProgrammingLanguageQuery)
         {
             ProgrammingLanguageGetByIdDto result = await Mediator.Send(getByIdProgrammingLanguageQuery);
             return Ok(result);
         }
 
-        [HttpGet]
+        [HttpGet("getlistbyProgLang")]
         public async Task<IActionResult> GetList([FromQuery] PageRequest pageRequest)
         {
             GetListProgrammingLanguageQuery getListProgrammingLanguageQuery = new() { PageRequest = pageRequest};
@@ -41,7 +41,7 @@ namespace KodlamaioDevs.WebAPI.Controllers
             return Ok(result);
         }
 
-        [HttpPut]
+        [HttpPut("update/{Id}")]
         public async Task<IActionResult> Update([FromBody] UpdateProgrammingLanguageCommand updateProgrammingLanguageCommand)
         {
             UpdateProgrammingLanguageDto result = await Mediator.Send(updateProgrammingLanguageCommand);
@@ -52,7 +52,7 @@ namespace KodlamaioDevs.WebAPI.Controllers
         public async Task<IActionResult> Delete([FromRoute] DeleteProgrammingLanguageCommand deleteProgrammingLanguageCommand)
         {
             DeleteProgrammingLanguageDto result = await Mediator.Send(deleteProgrammingLanguageCommand);
-            return Created("", result);
+            return  Ok(result.Message);
         }
 
     }

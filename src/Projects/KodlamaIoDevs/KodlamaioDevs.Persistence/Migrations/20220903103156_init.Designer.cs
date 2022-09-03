@@ -11,7 +11,7 @@ using Persistence.Contexts;
 namespace KodlamaioDevs.Persistence.Migrations
 {
     [DbContext(typeof(BaseDbContext))]
-    [Migration("20220902145651_init")]
+    [Migration("20220903103156_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
