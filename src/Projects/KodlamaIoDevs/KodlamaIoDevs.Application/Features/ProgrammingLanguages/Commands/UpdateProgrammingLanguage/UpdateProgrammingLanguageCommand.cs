@@ -10,7 +10,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Commands.Updat
     public class UpdateProgrammingLanguageCommand : IRequest<UpdateProgrammingLanguageDto>
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         public class UpdateProgrammingLanguageCommandHandler : IRequestHandler<UpdateProgrammingLanguageCommand, UpdateProgrammingLanguageDto>
         {
@@ -28,6 +28,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Commands.Updat
             public async Task<UpdateProgrammingLanguageDto> Handle(UpdateProgrammingLanguageCommand request, CancellationToken cancellationToken)
             {
                 ProgrammingLanguage mappedprogrammingLanguage = _mapper.Map<ProgrammingLanguage>(request);
+                await _programmingLanguageBusinessRules.ProgrammingLanguageNameCanNotBeDuplicatedWhenInserted(request.Name);
                 ProgrammingLanguage programmingLanguage = await _programmingLanguageRepository.UpdateAsync(mappedprogrammingLanguage);
                 UpdateProgrammingLanguageDto updateProgrammingLanguageDto = _mapper.Map<UpdateProgrammingLanguageDto>(programmingLanguage);
 

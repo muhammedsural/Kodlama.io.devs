@@ -15,7 +15,7 @@ namespace KodlamaioDevs.Application.Features.ProgrammingLanguages.Commands.Delet
     public class DeleteProgrammingLanguageCommand : IRequest<DeleteProgrammingLanguageDto>
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         public class DeleteProgrammingLanguageCommandHandler : IRequestHandler<DeleteProgrammingLanguageCommand, DeleteProgrammingLanguageDto>
         {

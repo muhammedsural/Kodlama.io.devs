@@ -1,11 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using KodlamaioDevs.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using KodlamaioDevs.Domain.Entities;
 
 namespace Persistence.Contexts
 {
@@ -13,7 +8,6 @@ namespace Persistence.Contexts
     {
         protected IConfiguration Configuration { get; set; }
         public DbSet<ProgrammingLanguage> ProgrammingLanguages { get; set; }
-       
 
         public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
         {
@@ -34,13 +28,11 @@ namespace Persistence.Contexts
                 x.ToTable("ProgrammingLanguages").HasKey(a => a.Id);
                 x.Property(a => a.Id).HasColumnName("Id");
                 x.Property(a => a.Name).HasColumnName("Name");
-
-                ProgrammingLanguage[] programmingLanguageEntitySeeds = { new(1, "C#"), new(2, "Python") };
-                modelBuilder.Entity<ProgrammingLanguage>().HasData(programmingLanguageEntitySeeds);
             });
             //Entity property ile ilgili bilgiler ve seed data trigger
 
-
+            ProgrammingLanguage[] programmingLanguageEntitySeeds = { new(1, "C#"), new(2, "Python") };
+            modelBuilder.Entity<ProgrammingLanguage>().HasData(programmingLanguageEntitySeeds);
         }
     }
 }
