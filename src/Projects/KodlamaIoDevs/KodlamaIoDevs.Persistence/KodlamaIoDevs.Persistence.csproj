@@ -17,10 +17,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="Repositories\" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <ProjectReference Include="..\KodlamaIoDevs.Application\KodlamaioDevs.Application.csproj" />
 	  <ProjectReference Include="..\KodlamaIoDevs.Domain\KodlamaioDevs.Domain.csproj" />
 	</ItemGroup>

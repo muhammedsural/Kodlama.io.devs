@@ -17,10 +17,21 @@ public class EfRepositoryBase<TEntity, TContext> : IAsyncRepository<TEntity>, IR
         Context = context;
     }
 
-    public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate)
+    //public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate)
+    //{
+    //    return await Context.Set<TEntity>().FirstOrDefaultAsync(predicate);
+    //}
+
+    //Join işlemi için refactoring yapıldı.
+    public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate, Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
     {
-        return await Context.Set<TEntity>().FirstOrDefaultAsync(predicate);
+        //Gelen entity türünde IQueryable nesnesi oluşturuyoruz query yazmak için. Gönderilen join(include) ile join(include) işlemi yapıp, gönderilen sorgu(predicate) ile sorgulama(predicate) işlemi yapıp döndürüyoruz. 
+        IQueryable<TEntity> queryable = Query();
+        if (include != null) queryable = include(queryable);
+        if (predicate != null) queryable = queryable.Where(predicate);
+        return await queryable.FirstOrDefaultAsync();
     }
+
 
     public async Task<IPaginate<TEntity>> GetListAsync(Expression<Func<TEntity, bool>>? predicate = null,
                                                        Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>>? orderBy =

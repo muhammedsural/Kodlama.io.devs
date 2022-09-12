@@ -33,6 +33,21 @@
 	  </EmbeddedResource>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Features\FolderDesign\Commands\" />
+	  <Folder Include="Features\FolderDesign\Constants\" />
+	  <Folder Include="Features\FolderDesign\Dtos\" />
+	  <Folder Include="Features\FolderDesign\Models\" />
+	  <Folder Include="Features\FolderDesign\Profiles\" />
+	  <Folder Include="Features\FolderDesign\Queries\" />
+	  <Folder Include="Features\FolderDesign\Rules\" />
+	  <Folder Include="Features\GitHubProfiles\Constants\" />
+	  <Folder Include="Features\ProgrammingLanguages\Queries\GetListProgrammingLanguageByDynamic\" />
+	  <Folder Include="Features\Technologies\Constants\" />
+	  <Folder Include="Features\Technologies\Models\" />
+	  <Folder Include="Features\Technologies\Queries\GetListTechnology\" />
+	</ItemGroup>
+
 
 
 </Project>

@@ -43,3 +43,5 @@ D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domai
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\refint\KodlamaioDevs.Domain.dll
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\KodlamaioDevs.Domain.pdb
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\obj\Debug\net6.0\ref\KodlamaioDevs.Domain.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.Domain\bin\Debug\net6.0\Core.Security.pdb

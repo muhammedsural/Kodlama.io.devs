@@ -23,6 +23,9 @@ namespace Persistence.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Technology>().Navigation(x => x.ProgrammingLanguage).AutoInclude();
+            modelBuilder.Entity<ProgrammingLanguage>().Navigation(x => x.Technologies).AutoInclude();
+
             modelBuilder.Entity<ProgrammingLanguage>(x =>
             {
                 x.ToTable("ProgrammingLanguages").HasKey(a => a.Id);
