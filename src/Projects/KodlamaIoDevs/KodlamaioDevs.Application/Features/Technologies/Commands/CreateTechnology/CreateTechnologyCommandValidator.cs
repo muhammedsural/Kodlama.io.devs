@@ -7,7 +7,7 @@ using FluentValidation;
 
 namespace KodlamaioDevs.Application.Features.Technologies.Commands.CreateTechnology
 {
-    public class CreateTechnologyCommandValidator: AbstractValidator<CreateTechnologyCommand>
+    public class CreateTechnologyCommandValidator : AbstractValidator<CreateTechnologyCommand>
     {
         public CreateTechnologyCommandValidator()
         {
@@ -15,3 +15,4 @@ namespace KodlamaioDevs.Application.Features.Technologies.Commands.CreateTechnol
             RuleFor(t => t.ProgrammingLanguageId).NotNull();
         }
     }
+}
