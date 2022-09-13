@@ -6,10 +6,10 @@ namespace KodlamaioDevs.Application.Features.Developers.Commands.CreateDeveloper
     {
         public CreateDeveloperCommandValidator()
         {
-            RuleFor(e => e.FirstName).NotEmpty().NotNull();
-            RuleFor(e => e.LastName).NotEmpty().NotNull();
-            RuleFor(e => e.Email).NotEmpty().NotNull().EmailAddress();
-            RuleFor(e => e.Password).NotEmpty().NotNull().MinimumLength(9);
+            RuleFor(d => d.Email).NotEmpty().NotNull().EmailAddress();
+            RuleFor(d => d.Password).NotEmpty().NotNull().MinimumLength(9);
+            RuleFor(d => d.FirstName).NotEmpty().NotNull();
+            RuleFor(d => d.LastName).NotEmpty().NotNull();
         }
     }
 }

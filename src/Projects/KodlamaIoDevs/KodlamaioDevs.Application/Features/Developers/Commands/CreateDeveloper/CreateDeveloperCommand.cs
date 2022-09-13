@@ -45,10 +45,12 @@ namespace KodlamaioDevs.Application.Features.Developers.Commands.CreateDeveloper
                 mappedDeveloper.PasswordSalt = passwordSalt;
 
                 Developer createdDeveloper = await _developerRepository.AddAsync(mappedDeveloper);
+
                 var token = _tokenHelper.CreateToken(mappedDeveloper, new List<OperationClaim>());
-                TokenDto createdToken = new TokenDto() {Token = token.Token, Expiration = token.Expiration };
+                TokenDto createdToken = _mapper.Map<TokenDto>(token);
 
                 return createdToken;
+                
             }
         }
     }

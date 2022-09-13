@@ -12,7 +12,7 @@ namespace KodlamaioDevs.Application.Features.Developers.Commands.LoginDeveloper
         public LoginDeveloperCommandValidator()
         {
             RuleFor(e => e.Email).NotEmpty().NotNull().EmailAddress();
-            RuleFor(e => e.Password).NotEmpty().NotNull().MinimumLength(9);
+            RuleFor(e => e.Password).NotEmpty().NotNull();
         }
     }
 }

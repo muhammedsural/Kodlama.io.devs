@@ -239,3 +239,4 @@ D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.WebAP
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.WebAPI\obj\Debug\net6.0\KodlamaioDevs.WebAPI.pdb
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.WebAPI\obj\Debug\net6.0\KodlamaioDevs.WebAPI.genruntimeconfig.cache
 D:\senkronize_git\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.WebAPI\obj\Debug\net6.0\ref\KodlamaioDevs.WebAPI.dll
+C:\Users\Lenovo\Desktop\github\Kodlama.io.devs\src\Projects\KodlamaIoDevs\KodlamaIoDevs.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
